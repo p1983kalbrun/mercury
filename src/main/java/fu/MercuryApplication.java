@@ -1,7 +1,7 @@
 package fu;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//new comment
 @SpringBootApplication
 public class MercuryApplication {
 
